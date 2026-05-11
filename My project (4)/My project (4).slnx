@@ -55,6 +55,7 @@
   <Project Path="Unity.2D.Sprite.Editor.csproj" />
   <Project Path="GMPR2512.Lesson05Coroutines.csproj" />
   <Project Path="Unity.Multiplayer.Center.Common.csproj" />
+  <Project Path="GMPR2512.Lesson07TransformAndInput.csproj" />
   <Project Path="Unity.InputSystem.ForUI.csproj" />
   <Project Path="Unity.Collections.CodeGen.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.csproj" />
@@ -68,9 +69,11 @@
   <Project Path="Unity.ShaderGraph.Utilities.csproj" />
   <Project Path="Unity.VisualScripting.Shared.Editor.csproj" />
   <Project Path="Unity.2D.Aseprite.Common.csproj" />
+  <Project Path="Lesson08ScenesAndUI.csproj" />
+  <Project Path="GMPR2512.Lesson09Platformer.csproj" />
+  <Project Path="GMPR2512.Lesson06Pinball.csproj" />
   <Project Path="Unity.RenderPipeline.Universal.ShaderLibrary.csproj" />
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
-  <Project Path="GMPR2512.Lesson06Pinball.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.004.csproj" />

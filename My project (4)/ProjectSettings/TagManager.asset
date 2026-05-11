@@ -5,14 +5,19 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ball
+  - Alien
+  - BombPickup
+  - ExplosionFX
+  - Bullet
+  - HealthBar
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
